@@ -27,7 +27,7 @@ This will add a line like this to your package's pubspec.yaml (and run the `flut
 
 ```yaml
 dependencies:
-  infobip_rtc: ^0.1.5
+  infobip_rtc: ^0.1.7
 ```
 
 Now you can add the following line in your Dart files to use our plugin package:
