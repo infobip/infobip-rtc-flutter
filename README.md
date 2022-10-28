@@ -1,3 +1,15 @@
+## DEPRECATED
+
+**This plugin package has been deprecated and will not be maintained further.**
+
+To continue using Infobip's WebRTC solutions with the newest features and bug fixes, you can check out our other SDKs:
+
+- [JavaScript SDK](https://github.com/infobip/infobip-rtc-js)
+- [Android SDK](https://github.com/infobip/infobip-rtc-android)
+- [iOS SDK](https://github.com/infobip/infobip-rtc-ios)
+
+---
+
 ### Introduction
 
 Infobip RTC is a Flutter plugin package which enables you to take advantage of the Infobip platform, giving you the ability to enrich your mobile applications with real-time communications in minimum time, while you focus on your application's user experience and business logic. We currently support audio and video calls between two web or app users, and phone calls between a web or an app user and actual phone device.
